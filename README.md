@@ -55,6 +55,7 @@ Follow these steps to set up and run the Multi-Agentic RAG application locally.
 # 1. Clone the repository
 
 git clone https://github.com/SHRUTISINHA250714/LocalMultiAgent.git
+
 cd LocalMultiAgent
 
 # 2. Create a Python virtual environment
@@ -81,7 +82,7 @@ docker run -d --name milvus-standalone -p 19530:19530 -p 9091:9091 milvusdb/milv
 
 # 6. Pull Ollama LLaMA model
 
-ollama pull llama3.2:3b
+ollama pull  llama3.2:1b
 
 # 7. Run the Streamlit app
 
