@@ -87,3 +87,7 @@ ollama pull  llama3.2:1b
 # 7. Run the Streamlit app
 
 streamlit run app.py
+
+
+#Video Link 
+https://youtu.be/Wl3wXT7HEM0
