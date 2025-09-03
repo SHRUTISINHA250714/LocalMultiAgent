@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-milvus
+pymilvus
+sentence-transformers
+ollama
+python-docx
+pypdf
+unstructured
+openpyxl
